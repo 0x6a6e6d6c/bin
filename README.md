@@ -1,3 +1,2 @@
-# bin directory
-
+# bin
 some text
