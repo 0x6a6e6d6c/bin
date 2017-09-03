@@ -1,2 +1,2 @@
 # bin
-some text
+some text, so what?
