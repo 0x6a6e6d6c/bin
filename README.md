@@ -1,2 +1,4 @@
 # bin
-some text, so what?
+README.md
+
+info text
